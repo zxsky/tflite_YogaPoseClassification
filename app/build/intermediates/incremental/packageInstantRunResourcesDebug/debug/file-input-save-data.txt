@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Mar 16 19:50:31 EDT 2018
+1.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=graph.lite
+0.set=ASSET
+0.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=BUILD

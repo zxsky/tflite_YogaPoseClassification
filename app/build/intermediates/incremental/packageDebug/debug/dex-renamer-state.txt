@@ -1,0 +1,4 @@
+#Sat Mar 24 18:52:14 EDT 2018
+base.0=/home/xtian/Documents/tflite/app/build/intermediates/transforms/dexMerger/debug/18
+path.0=classes.dex
+renamed.0=classes.dex

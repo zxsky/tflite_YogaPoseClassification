@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+MERGED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b64b6917fb2e221a20c458695cc0e0d2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a3c2f804b382a37d239f027ef2cb28b7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] /home/xtian/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/24af17c90d8f4d49dd382570da50b700/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/60e5d0bcb94e36de9dff609d37e7a312/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/xtian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/79760b8bc17321e56014d3918f0d3d5a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/accaebbd3f0affdaf06a4309aa74960d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/a67dc30a8a4c6bbc4625e2985b114376/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:17:1-31:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.2-nightly] /home/xtian/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.2-nightly.aar/48368bece5c3a1159a923badb5946de5/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+	package
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:17:5-51
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:1-55:12
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+MERGED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b64b6917fb2e221a20c458695cc0e0d2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b64b6917fb2e221a20c458695cc0e0d2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v13:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a3c2f804b382a37d239f027ef2cb28b7/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a3c2f804b382a37d239f027ef2cb28b7/AndroidManifest.xml:21:5-23:55
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] /home/xtian/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/24af17c90d8f4d49dd382570da50b700/AndroidManifest.xml:8:5-10:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] /home/xtian/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/24af17c90d8f4d49dd382570da50b700/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:transition:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/60e5d0bcb94e36de9dff609d37e7a312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/60e5d0bcb94e36de9dff609d37e7a312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/xtian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/79760b8bc17321e56014d3918f0d3d5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/xtian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/79760b8bc17321e56014d3918f0d3d5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/accaebbd3f0affdaf06a4309aa74960d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/accaebbd3f0affdaf06a4309aa74960d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/a67dc30a8a4c6bbc4625e2985b114376/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/a67dc30a8a4c6bbc4625e2985b114376/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:5-44
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:19:15-41
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:24:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:27:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:29:22-64
+application
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:31:5-53:19
+MERGED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1e7a3a5fa77f631985501e86ffe89a17/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b64b6917fb2e221a20c458695cc0e0d2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/b64b6917fb2e221a20c458695cc0e0d2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a3c2f804b382a37d239f027ef2cb28b7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/a3c2f804b382a37d239f027ef2cb28b7/AndroidManifest.xml:25:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] /home/xtian/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/24af17c90d8f4d49dd382570da50b700/AndroidManifest.xml:12:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] /home/xtian/.gradle/caches/transforms-1/files-1.1/material-calendarview-1.4.3.aar/24af17c90d8f4d49dd382570da50b700/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/60e5d0bcb94e36de9dff609d37e7a312/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/60e5d0bcb94e36de9dff609d37e7a312/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/xtian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/79760b8bc17321e56014d3918f0d3d5a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/xtian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/79760b8bc17321e56014d3918f0d3d5a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/accaebbd3f0affdaf06a4309aa74960d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/accaebbd3f0affdaf06a4309aa74960d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/a67dc30a8a4c6bbc4625e2985b114376/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/a67dc30a8a4c6bbc4625e2985b114376/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:25:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.2-nightly] /home/xtian/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.2-nightly.aar/48368bece5c3a1159a923badb5946de5/AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.2-nightly] /home/xtian/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.2-nightly.aar/48368bece5c3a1159a923badb5946de5/AndroidManifest.xml:4:5-5:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:34:9-41
+	android:icon
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:35:9-65
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:36:19-49
+activity#com.example.android.tflitecamerademo.MainActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:37:9-44:20
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:42:27-74
+activity#com.example.android.tflitecamerademo.PoseDetailsActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:45:9-57
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:45:19-54
+activity#com.example.android.tflitecamerademo.PracticeActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:47:13-45
+activity#com.example.android.tflitecamerademo.CalendarActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:49:9-51:67
+	android:theme
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:51:13-64
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:50:13-45
+activity#com.example.android.tflitecamerademo.CalendarDetailsActivity
+ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:52:9-61
+	android:name
+		ADDED from /home/xtian/Documents/tflite/app/src/main/AndroidManifest.xml:52:19-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78d65b793610c6088fc0c5b7afcdaf51/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/59f981c381ea3f66fca92a78f69d74e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fb9af979d9951f9a9ca1265aa4620460/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/92e89b1327828968269726a3db3115ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/70fac79a3ed9703c5f15ad8775850f30/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7242c3193e467bbb14ca76194b5857b4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6a12c7c98e5a11a27272675c182f151f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/747e7c563d0b9e2856ca1ba8a1c4f419/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/xtian/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d39a96bc8f5efd2607be693dc891025d/AndroidManifest.xml:26:13-58

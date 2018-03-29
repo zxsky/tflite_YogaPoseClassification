@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/calendar_detail_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/calendar_detail_date_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            tools:text="Date"
+            />
+
+        <TextView
+            android:id="@+id/calendar_detail_content_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/calendar_detail_date_text_view"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            tools:text="Content"
+            />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

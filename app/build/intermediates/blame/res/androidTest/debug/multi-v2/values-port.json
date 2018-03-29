@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/xtian/Documents/tflite/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/xtian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/d18184eb503440eb21ad57355b79fde6/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

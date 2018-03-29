@@ -1,0 +1,6 @@
+mountain
+plank
+tree
+tree2
+warrior1
+warroir2

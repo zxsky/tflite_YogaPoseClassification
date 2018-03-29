@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Sat Mar 24 18:52:14 EDT 2018
+2.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+0.path=graph.lite
+2.baseType=DIRECTORY
+3.base=/home/xtian/Documents/tflite/app/build/intermediates/transforms/dexMerger/debug/18
+2.set=ASSET
+1.path=lib/armeabi-v7a/libtensorflowlite_jni.so
+4.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+count=5
+2.path=BUILD
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=labels.txt
+1.baseType=DIRECTORY
+0.base=/home/xtian/Documents/tflite/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/home/xtian/Documents/tflite/app/build/intermediates/transforms/mergeJniLibs/debug/0
+4.baseType=DIRECTORY
+0.set=ASSET
